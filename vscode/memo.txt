@@ -1,0 +1,8 @@
+・リモートデバッグの方法
+拡張機能のインストール
+Remote Deelopment
+
+https://zenn.dev/kazuu/articles/fa84bec08f855b
+
+Reopen in container
+
